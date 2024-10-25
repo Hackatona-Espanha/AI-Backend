@@ -49,6 +49,7 @@ class EducationalStoryPromptFormatter:
         d. Use a repetição para reforçar pontos importantes.
         e. Incorpore detalhes sensoriais quando apropriado.
         f. Torne a história interativa fazendo perguntas simples ou incentivando a imaginação.
+        g. Gere em no máximo 2 paragráfos, histórias breves, paragráfos curtos.
 
         4. Cada segmento da história deve ser educativo e se relacionar diretamente com o conteúdo do material original.
 

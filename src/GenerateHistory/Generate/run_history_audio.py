@@ -1,0 +1,2 @@
+from src.general.ModelVoiceGenerator.model_voice_generator import VoiceGenerator
+
